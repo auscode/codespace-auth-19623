@@ -1,0 +1,12 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "an auth system totally design in github codespaces",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": []
+}
